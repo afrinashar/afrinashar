@@ -28,7 +28,7 @@
 ---
 
 ### 📊 GitHub Stats
-
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=afrinashar&bg_color=ffffff&color=000000&line=4c9e70&point=030202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![Afrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrinashar&show_icons=true&theme=radical&count_private=true)
 ![Afrin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinashar&layout=compact&theme=radical)
 
