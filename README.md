@@ -29,14 +29,10 @@
 
 ### 📊 GitHub Stats
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=afrinashar&bg_color=ffffff&color=000000&line=4c9e70&point=030202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![Afrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrinashar&show_icons=true&theme=radical&count_private=true)
-![Afrin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinashar&layout=compact&theme=radical)
-
----
+![afrinashar's Stats](https://github-readme-stats.vercel.app/api?username=afrinashar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![afrinashar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinashar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afrinashar&theme=radical)](https://git.io/streak-stats)
-
+![afrinashar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afrinashar&theme=vue-dark&hide_border=true)
 ---
 
 ### 💼 Open to Collaborate
@@ -47,7 +43,7 @@ I'm always eager to collaborate on **open-source projects** or **exciting tech s
 
 ### 📫 How to Reach Me
 - LinkedIn: [Afrin Ashar](https://www.linkedin.com/in/afrin-ashar)
-- Email: your.email@example.com
+- Email: afrinashar1@gmail.com
 
 ---
 
