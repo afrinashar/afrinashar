@@ -27,7 +27,7 @@
 
 ---
 ### 📊 Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/afrinashar8?theme=light&font=Cairo&ext=heatmap)
 ### 📊 GitHub Stats
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=afrinashar&bg_color=ffffff&color=000000&line=4c9e70&point=030202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![afrinashar's Stats](https://github-readme-stats.vercel.app/api?username=afrinashar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![afrinashar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinashar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
