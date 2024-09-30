@@ -29,13 +29,13 @@
 
 ### 📊 GitHub Stats
 
-![Afrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&count_private=true)
-![Afrin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+![Afrin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=afrinashar&show_icons=true&theme=radical&count_private=true)
+![Afrin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinashar&layout=compact&theme=radical)
 
 ---
 
 ### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=afrinashar&theme=radical)](https://git.io/streak-stats)
 
 ---
 
@@ -60,8 +60,8 @@ I'm always eager to collaborate on **open-source projects** or **exciting tech s
 
 ### 👨‍💻 GitHub Contribution Graph
 
-[![Afrin's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=your-github-username&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Afrin's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=afrinashar&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-⭐️ From [Afrin Ashar](https://github.com/your-github-username)
+⭐️ From [Afrin Ashar](https://github.com/afrinashar)
