@@ -53,11 +53,7 @@ github.com/afrinashar?tab=achievements
     <a href="https://youtu.be/H2EJuAcrZYU" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
     <a href="https://youtu.be/jQjjqEjZK58" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="36" height="36" alt="Flask" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=afrinashar&show_icons=true&locale=en&layout=compact" alt="afrinashar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinashar&show_icons=true&locale=en" alt="afrinashar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinashar&" alt="afrinashar" /></p>
 
 ### 🔭 Featured Projects
 - 🗣 [**Talking Tom**](https://github.com/username/talking-tom): A fun voice-modification app with baby voice options.
@@ -70,11 +66,15 @@ github.com/afrinashar?tab=achievements
 ![LeetCode Stats](https://leetcard.jacoblin.cool/afrinashar8?theme=light&font=Cairo&ext=heatmap)
 ### 📊 GitHub Stats
  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=afrinashar&bg_color=ffffff&color=000000&line=4c9e70&point=030202&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-![afrinashar's Stats](https://github-readme-stats.vercel.app/api?username=afrinashar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)![afrinashar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=afrinashar&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+ 
+ 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinashar&show_icons=true&locale=en" alt="afrinashar" /></p>
 
 ### 🔥 Streak Stats
-![afrinashar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=afrinashar&theme=vue-dark&hide_border=true)
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinashar&" alt="afrinashar" /></p>
+
+ ---
 
 ### 💼 Open to Collaborate
 
