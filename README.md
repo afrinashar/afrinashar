@@ -1,4 +1,5 @@
 # 💻 Afrin Ashar
+github.com/afrinashar?tab=achievements
 🔭 Here's my [portfolio](https://afrin-ashar.vercel.app/) 
 ### Hello! 👋 I'm Afrin, experienced Full Stack Developer working with the **MERN Stack**. I specialize in building modern, scalable, and efficient applications, and I have expertise in **React Micro-Frontends**, **AI/ML**, **LLMs**, and **Python**.
 
