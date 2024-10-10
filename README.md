@@ -70,7 +70,12 @@ github.com/afrinashar?tab=achievements
  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=afrinashar&show_icons=true&locale=en" alt="afrinashar" /></p>
+<a href="https://github.com/afrinashar/github-stats">
+   
+![](https://github.com/jasongaylord/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jasongaylord/github-stats/blob/master/generated/languages.svg)
 
+</a>
 ### 🔥 Streak Stats
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=afrinashar&" alt="afrinashar" /></p>
 
